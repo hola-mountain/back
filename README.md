@@ -1,8 +1,7 @@
 # back
 
-### 구조
+### Entity
 
-- [x] Entity
     ![domain_model](https://github.com/hola-mountain/back/blob/master/src/main/resources/image/USER.JPG)
     ![domain_model](https://github.com/hola-mountain/back/blob/master/src/main/resources/image/Moutain.JPG)
     
