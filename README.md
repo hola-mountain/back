@@ -1,8 +1,9 @@
 # back
 
 ### Entity
-- 
+- [x] User 
     ![domain_model](https://github.com/hola-mountain/back/blob/master/src/main/resources/image/USER.JPG)
+- [x] Mountain    
     ![domain_model](https://github.com/hola-mountain/back/blob/master/src/main/resources/image/Moutain.JPG)
     
 ### API 설계
