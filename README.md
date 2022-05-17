@@ -1,7 +1,7 @@
 # back
 
 ### BackEnd Architecture 설계
-![image](https://user-images.githubusercontent.com/31757314/168786338-045e7c60-baf3-43f4-9013-551ca4a71a0e.png)
+![image](https://user-images.githubusercontent.com/31757314/168786441-d22d3f97-db30-4936-8383-bc85ca4a99c6.png)
 1. githup repository push를 통해 소스 업데이트
 2. Jeknins가 보고 있다가 CI/CD를 통한 자동화 빌드 / 배포
 3. 각 도메인별로 구성된 Amazon EC2에 젠킨스 배포 후 실행
