@@ -1,5 +1,12 @@
 # back
 
+### BackEnd Architecture 설계
+![image](https://user-images.githubusercontent.com/31757314/168783421-539be983-559e-413f-ab20-60b851b1d3b4.png)
+1. githup repository push를 통해 소스 업데이트
+2. Jeknins가 보고 있다가 CI/CD를 통한 자동화 빌드 / 배포
+3. 각 도메인별로 구성된 Amazon EC2에 젠킨스 배포 후 실행
+
+<!-- 
 ### Entity
 - [x] User 
     ![domain_model](https://github.com/hola-mountain/back/blob/master/src/main/resources/image/USER.JPG)
@@ -8,7 +15,7 @@
     
 ### API 설계
 - [x] REST API 설계하기
-    - [REST API Document](https://docs.google.com/spreadsheets/d/1YUAuLw1SX2_oafbXAACLqnuv1LDNE8QM6ffgOs0w1oI/edit)
+    - [REST API Document](https://docs.google.com/spreadsheets/d/1YUAuLw1SX2_oafbXAACLqnuv1LDNE8QM6ffgOs0w1oI/edit) -->
 
 ### BackEnd Skill Stack
 
